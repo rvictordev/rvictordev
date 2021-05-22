@@ -1,16 +1,6 @@
-- 👋 Hi, I’m @rvictordev
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript, php, react, laravel
-- 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me
-email: rvducusindevs@gmail.com
-fb: https://www.facebook.com/rvictorducusin
-linkedin: https://www.linkedin.com/in/rvictorducusin/
-
 <!-- [![alt text][1.1]][1] -->
 [![alt text][2.1]][2]
 [![alt text][6.1]][6]
-
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
@@ -21,6 +11,13 @@ linkedin: https://www.linkedin.com/in/rvictorducusin/
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
+- 👋 Hi, I’m @rvictordev
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning javascript, php, react, laravel
+- 💞️ I’m looking to collaborate on web development
+- 📫 How to reach me
+email: rvducusindevs@gmail.com
+linkedin: https://www.linkedin.com/in/rvictorducusin/
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 <!-- [2]: http://www.facebook.com/rvictorducusin for twitter link -->
