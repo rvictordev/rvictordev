@@ -9,6 +9,7 @@
 - 📫 How to reach me
 email: rvducusindevs@gmail.com
 linkedin: https://www.linkedin.com/in/rvictorducusin/
+
 [![alt text][2.1]][2]
 [![alt text][6.1]][6]
 <!-- [![alt text][1.1]][1] for twitter icon --> 
