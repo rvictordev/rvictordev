@@ -7,7 +7,7 @@ email: rvducusindevs@gmail.com
 fb: https://www.facebook.com/rvictorducusin
 linkedin: https://www.linkedin.com/in/rvictorducusin/
 
-[![alt text][1.1]][1]
+<!-- [![alt text][1.1]][1] -->
 [![alt text][2.1]][2]
 [![alt text][6.1]][6]
 
