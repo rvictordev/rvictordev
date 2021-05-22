@@ -8,10 +8,8 @@
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me
 email: rvducusindevs@gmail.com
-linkedin: https://www.linkedin.com/in/rvictorducusin/
-<!-- [![alt text][1.1]][1] -->
-[![alt text][2.1]][2]
-[![alt text][6.1]][6]
+linkedin: https://www.linkedin.com/in/rvictorducusin/ [![alt text][2.1]][2] [![alt text][6.1]][6]
+<!-- [![alt text][1.1]][1] for twitter icon --> 
 
 <!-- links to social media icons -->
 <!-- [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding) -->
